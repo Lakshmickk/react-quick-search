@@ -1,0 +1,5 @@
+
+[22/1/2023 -- 22:45]  Info task started
+[22/1/2023 -- 22:45]  Mustache Templates ran on the HTML files
+[22/1/2023 -- 22:45]  Scripts ran on main.js
+[22/1/2023 -- 22:45]  Sass ran on files
